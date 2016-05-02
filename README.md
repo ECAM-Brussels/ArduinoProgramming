@@ -1,2 +1,7 @@
 # ArduinoProgramming
-Resources related to the programming of the Arduino board
+
+This repository contains material related to several courses involving the programming of Arduino boards. It contains the slides presented during trainings and several annotated code examples.
+
+## Contributors
+
+- Sébastien Combéfis
