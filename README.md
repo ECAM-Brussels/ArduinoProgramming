@@ -4,7 +4,8 @@ This repository contains material related to several courses involving the progr
 
 ## Code Examples
 
-- Traffic Light: a three-LED system simulating a classical traffic light
+- Accelerometer: a monitor to retrieve x, y and z-axis values from an accelerometer.
+- Traffic Light: a three-LED system simulating a classical traffic light.
 
 ## Contributors
 
