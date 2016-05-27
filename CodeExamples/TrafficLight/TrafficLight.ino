@@ -1,6 +1,6 @@
 // TrafficLight.ino
 // Author: Sébastien Combéfis
-// Version: April 3, 12016
+// Version: April 3, 2016
 
 const int configs[][4] = {
   {LOW, LOW, HIGH, 2000}, // red
